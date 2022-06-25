@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "dayjs": "^1.8.24",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
