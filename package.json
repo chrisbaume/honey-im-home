@@ -9,7 +9,7 @@
   "author": "Chris Baume <chris@bau.me>",
   "license": "ISC",
   "devDependencies": {
-    "node-lambda": "^0.16.0"
+    "node-lambda": "^1.0.0"
   },
   "dependencies": {
     "dayjs": "^1.8.24",
